@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LogApplication</string>
+    <string name="title_findappfeature">ScanAppModule</string>
+
+    <string name="positive_button1">Continua</string>
+    <string name="button_log">Log</string>
+    <string name="button_ok">Ok</string>
+
+    <string name="nome_app">App: </string>
+    <string name="package_name">Package: </string>
+    <string name="ultimo_accesso">Data: </string>
+
+    <string name="permission_title">Permesso Richiesto</string>
+    <string name="permission_message">Clicca su "Garantisci" per andare alla pagina delle impostazioni per garantire l\'accesso ai dati di utilizzo delle altre applicazioni. Se il permesso é gia stato garantito allora chiudi pure il dialog.</string>
+    <string name="garantisci_button">Garantisci</string>
+    <string name="close_button">Chiudi</string>
+</resources>
